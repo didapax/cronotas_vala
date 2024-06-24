@@ -1,0 +1,46 @@
+window {
+	background-color: #fdd6e2;
+}
+button {
+   font: 10px "Comic Sans";
+   border-color: transparent;
+   background-color: #fdd6e2;
+   border-radius: 3;
+   border-width: 1;
+}
+calendar{
+  border-color: transparent;
+  border-style:hidden;
+}
+textview{
+  border-color: transparent;
+  border-style:hidden;
+  font: 15px "Comic Sans";
+  background-color:#fdd6e2;
+  opacity: 0.7;
+}
+menu {
+  background-color: #fdd6e2;
+  color: #0a0a00;
+}
+box{
+  background-color: #fdd6e2;
+  border-color: transparent;
+  border-style:hidden;
+
+}
+treeview {
+ color: #0a0a00; 
+}
+scrolledwindow{
+   background-color:#f8779e;
+   border-top-style: dotted;
+   border-right-style: none;
+   border-bottom-style: none;
+   border-left-style: none;
+}
+tooltip{
+   background-color: #fdd6e2;
+}
+
+
